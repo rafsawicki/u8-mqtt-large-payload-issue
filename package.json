@@ -1,0 +1,18 @@
+{
+  "name": "u8-mqtt-large-payload",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "type": "module",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aedes": "0.51.0",
+    "mqtt": "5.3.4",
+    "u8-mqtt": "0.6.0"
+  }
+}
